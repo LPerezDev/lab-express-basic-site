@@ -1,7 +1,35 @@
 body {
     font-family: 'Grape Nuts', cursive;
+    display: flex;
+    background-color: rgb(4, 216, 145);
+    font-size: 24px;
+    font-weight: 900;
 }
 
 .home-photo {
-    
+    max-width: 35%;
+    max-height: 35%;
+    display: flex;
+    align-items: center;
+}
+
+.photo-gallery-pic {
+    max-width: 35%;
+    max-height: 35%;
+    display: flex;
+    align-items: center;
+}
+
+.about-photo {
+    max-width: 35%;
+    max-height: 35%;
+    display: flex;
+    align-items: center;
+}
+
+.works-photo {
+    max-width: 35%;
+    max-height: 35%;
+    display: flex;
+    align-items: center;
 }
